@@ -1,0 +1,4 @@
+#Sat Feb 29 00:07:33 MST 2020
+base.0=C\:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_taxi.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable\\taxi.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_request_layout.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\layout\\user_request_layout.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_w.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable\\logo_w.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_s.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-xxhdpi\\s.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_collections_view_as_list.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-hdpi\\ic_action_collections_view_as_list.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_content_edit.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_content_edit.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_logout.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-hdpi\\ic_action_logout.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_content_edit.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-hdpi\\ic_action_content_edit.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_content_edit.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-mdpi\\ic_action_content_edit.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_driver_position_layout.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\layout\\driver_position_layout.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_driver_activity_layout.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\layout\\driver_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_register_layout.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\layout\\register_layout.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_layout.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\layout\\login_layout.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_lostpassword_layout.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\layout\\lostpassword_layout.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_speech_btn_bg.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable\\speech_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_navigation_refresh.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_navigation_refresh.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_switch_style.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable\\switch_style.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_my_button.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable\\my_button.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_complete_button.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable\\complete_button.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_taxi3.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable\\taxi3.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_collections_view_as_list.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_collections_view_as_list.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_navigation_refresh.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-mdpi\\ic_action_navigation_refresh.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logobig.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable\\logobig.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_driver_details_layout.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\layout\\driver_details_layout.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_content_editt.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-hdpi\\ic_action_content_editt.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_text.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\layout\\spinner_text.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_logout.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_logout.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_collections_view_as_list.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-mdpi\\ic_action_collections_view_as_list.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red_button.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable\\red_button.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_collections_view_as_list.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_collections_view_as_list.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_logout.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-mdpi\\ic_action_logout.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_des.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable\\des.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_taxi1.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable\\taxi1.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_navigation_refresh.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-hdpi\\ic_action_navigation_refresh.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_request_ride_single_view.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\layout\\request_ride_single_view.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_content_edit.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_content_edit.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\menu_driver_menu.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\menu\\driver_menu.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_edit_profile_layout.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\layout\\user_edit_profile_layout.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_driver_login_layout.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\layout\\driver_login_layout.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_box_border.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-mdpi\\box_border.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_logout.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_logout.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_navigation_refresh.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_navigation_refresh.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_selector_color.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable\\list_selector_color.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_d.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-mdpi\\d.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_tag_places_list.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\layout\\tag_places_list.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_requesteduser_details_layout.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\layout\\requesteduser_details_layout.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_request_details_layout.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\layout\\user_request_details_layout.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\menu_usermenu.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\menu\\usermenu.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_b.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable\\logo_b.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\menu_login.xml.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sd.png.flat",
+        "source": "C:\\12121\\android stuidio\\NEW REPOSITORIOS\\android-taxi-booking-complete-solution\\app\\app\\src\\main\\res\\drawable-xhdpi\\sd.png"
+    }
+]
